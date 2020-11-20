@@ -1,5 +1,9 @@
 #! /usr/bin/perl -w
 ########################################################################
+# Purpose:  	Check OU level email accounts for delegates and if found,
+# 		match them against a list of managed delegate accounts.
+#		Output to .txt or .html or .whatever
+########################################################################
 # Ver .4
 # 20190919 Added ED_UPDATESCRIPT CHECK 
 # 20201118 
